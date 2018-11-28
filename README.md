@@ -1,2 +1,2 @@
 # HomeAutomation
-This is my home automation system.
+This is my home automation system
